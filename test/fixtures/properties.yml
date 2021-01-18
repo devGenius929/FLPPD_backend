@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 1
+  arv: 1
+  street: MyString
+  city: MyString
+  state: MyString
+  zip_code: 1
+  nbeds: MyString
+  nbath: MyString
+  description: MyText
+  sqft: 1
+  user: one
+
+two:
+  price: 1
+  arv: 1
+  street: MyString
+  city: MyString
+  state: MyString
+  zip_code: 1
+  nbeds: MyString
+  nbath: MyString
+  description: MyText
+  sqft: 1
+  user: two
